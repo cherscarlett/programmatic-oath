@@ -1,5 +1,5 @@
 # The Programmatic Oath
-Primum non nocere; ædifice non nocere
+## Primum non nocere; ædifice non nocere
 
 I swear that I will carry out, according to my ability and judgment, this oath and this indenture.
 
