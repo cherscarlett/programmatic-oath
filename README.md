@@ -8,3 +8,6 @@ I will use code to help and enable users according to my ability and judgment, b
 Now if I carry out this oath, and break it not, may I gain for ever reputation among all people for my life and for my art; but if I break it and forswear myself, may the opposite befall me.
 
 Cher Scarlett, August 28, 2019
+
+--
+If you are looking for a license that reflects this oath, checkout [The Hippocratic License](https://firstdonoharm.dev/)
